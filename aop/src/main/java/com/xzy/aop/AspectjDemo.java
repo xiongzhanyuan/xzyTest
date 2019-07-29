@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 @Aspect
 public class AspectjDemo {
 
-    @Pointcut("execution(* com.example.demo.*.*(..))")
+    @Pointcut("execution(* com.xzy.aop.*.*(..))")
     public void pointCut(){}
 
     @Before("pointCut()")
