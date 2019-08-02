@@ -3,7 +3,7 @@ package com.xzy.aop;
 import org.springframework.stereotype.Repository;
 
 @Repository("dao1")
-public class IndexDaoImpl extends AAA implements IndexDao {
+public class IndexDaoImpl  implements IndexDao {
     @Override
     public String test() {
         System.out.println("impl ");

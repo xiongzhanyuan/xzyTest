@@ -16,18 +16,18 @@ public class Test {
 
 
 //        List<String> strings = new ArrayList<>(Arrays.asList("1", "2"));
-        String[] strings = new String[]{"1","2"};
-
-        for (String string : strings) {
-            string+="0";
-        }
+//        String[] strings = new String[]{"1","2"};
+//
+//        for (String string : strings) {
+//            string+="0";
+//        }
 //        strings.(e->{
 //            e=e+1;
 //        });
 //        for (int i = 0; i < strings.length; i++) {
 //            strings[i] +=  "0";
 //        }
-        System.out.println(strings[0]);
+//        System.out.println(strings[0]);
 
 //        Class<?>[] classes = new Class[] {IndexDao.class};
 //        byte[] bytes = ProxyGenerator.generateProxyClass("IndexDaoDDD", classes);
