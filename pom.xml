@@ -20,6 +20,9 @@
         <module>aop</module>
         <module>proxy</module>
         <module>mySpring</module>
+        <module>http</module>
+        <module>mybatis</module>
+        <module>test</module>
     </modules>
 
 
